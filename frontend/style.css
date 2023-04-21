@@ -1,0 +1,58 @@
+/* Set a max width for the form to prevent it from taking up too much space */
+
+#productForm, h1 {
+  max-width: 500px;
+  margin: 5px auto;
+}
+#tagsList span {
+	padding: 5px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    background: #e6e6e6;
+}
+/* Style the form labels */
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Style the form inputs */
+input[type=text],input[type=number],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  font-size: 16px;
+}
+
+/* Style the file input */
+input[type=file] {
+  margin-bottom: 20px;
+}
+
+/* Style the submit button */
+button[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Add a hover effect to the submit button */
+button[type=submit]:hover {
+  background-color: #3e8e41;
+}
+
+/* Add media queries for smaller screens */
+@media (max-width: 768px) {
+  #productForm {
+    max-width: 100%;
+    padding: 0 20px;
+  }
+}
