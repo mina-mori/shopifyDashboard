@@ -5,7 +5,7 @@
 
 2- open cmd
 
-3- change directory to the current folder in cmd.
+3- change directory to the current folder in cmd
 
 4. run the following command: `npm install`
 
@@ -15,6 +15,6 @@
 
 #frontend
 
-1- go to frontend folder.
+1- go to frontend folder
 
-2- open index.html on the browser and try to add a product.
+2- open index.html on the browser and try to add a product
