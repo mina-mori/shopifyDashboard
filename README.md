@@ -1,9 +1,13 @@
 
 #backend
 
-1- charge directory to backend folder.
+1- go to backend folder.
 
 2- open cmd
+
+3- change directory to the current folder in cmd.
+
+4. run the following command: `npm install`
 
 3- run the following command: `npm start`
 
@@ -11,6 +15,6 @@
 
 #frontend
 
-1- charge directory to frontend folder.
+1- go to frontend folder.
 
 2- open index.html on the browser and try to add a product.
