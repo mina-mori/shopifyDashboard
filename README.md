@@ -9,9 +9,9 @@
 
 4. run the following command: `npm install`
 
-3- run the following command: `npm start`
+5- run the following command: `npm start`
 
-4- the backend service will be available with url: http://localhost:4000
+6- the backend service will be available with url: http://localhost:4000
 
 #frontend
 
